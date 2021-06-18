@@ -1,6 +1,21 @@
 # WeMeanGreen
 # (Smart Collar, Save the Wildlife)
 
+## Contents
+- [Smart Collar, Save the Wildlife](#submission-or-project-name)
+    - [Contents](#contents)
+    - [Short description](#short-description)
+  - [Demo video](#demo-video)
+  - [The Architecture](#the-architecture)
+  - [Long description](#long-description)
+    - [What's the problem?](#whats-the-problem)
+    - [How can technology help?](#how-can-technology-help)
+    - [How our product is better than exisitng solutions?](#how-our-product-is-better-than-exisitng-solutions)
+  - [Project roadmap](#project-roadmap)
+  - [Github Code Repositories](#github-code-repositories)
+  - [Local Application Setup](#local-application-setup)
+  - [Built with](#built-with)
+
 ## Short description
 
 Sustainable future of our ecosystem , preserving wildlife and natural habitats.
