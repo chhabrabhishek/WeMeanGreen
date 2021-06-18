@@ -22,6 +22,8 @@ Sustainable future of our ecosystem , preserving wildlife and natural habitats.
 
 ## Demo Video
 
+[![Watch the video](https://user-images.githubusercontent.com/25299400/122602025-c93c3900-d08f-11eb-88c6-4a25753e3ad0.png)](https://youtu.be/vJdt8maDm80)
+
 ## The Architecture
 
 ![image](https://user-images.githubusercontent.com/25299400/122579914-0b0ab680-d073-11eb-9f71-9fa5adcd23ed.png)
