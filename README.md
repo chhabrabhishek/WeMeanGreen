@@ -77,6 +77,6 @@ Following are the instructions to run our project on the local machine for devel
 - [Flask (Python)](https://flask.palletsprojects.com/en/2.0.x/)
 - [Google Maps](https://www.google.com/maps)
 - [IBM MyBlue Mix Services](https://www.ibm.com/support/pages/overview-ibm-bluemix)
-- [Kafka produced and consumer service](https://kafka.apache.org/)
+- [Kafka producer and consumer service](https://kafka.apache.org/)
 - [IBM event streams](https://cloud.ibm.com/catalog/services/event-streams)
 
