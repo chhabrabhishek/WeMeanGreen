@@ -1,5 +1,4 @@
-# WeMeanGreen
-# (Smart Collar, Save the Wildlife)
+# Smart Collar, Save the Wildlife
 
 ## Contents
 - [Smart Collar, Save the Wildlife](#submission-or-project-name)
@@ -9,6 +8,7 @@
   - [The Architecture](#the-architecture)
   - [Long description](#long-description)
     - [What's the problem?](#whats-the-problem)
+    - [The Idea](#the-idea)
     - [How can technology help?](#how-can-technology-help)
     - [How our product is better than exisitng solutions?](#how-our-product-is-better-than-exisitng-solutions)
   - [Project roadmap](#project-roadmap)
@@ -47,7 +47,6 @@ The idea is to build a technologically rich system to monitor the endangered spe
 
 ### How can technology help?
 
-- The idea is to build a technologically rich system to monitor the endangered species in real time and to spread awareness among people to save life on land. The system would be utilizing following with multifold solution.
 - **Geolocation** : We have used a smart collar device tied to neck of endangered animals which will give us the location of those animals at every moment using GPS service. Those coordinates will be received by a front end application ,which are mapped and monitored continuously on google maps. As soon as the animal would come into a danger zone (where it could get harmed/poached) or if there is a risk of human-animal conflict (where it could harm the farms) , the  designated authority monitoring these collars would already know about it and could take necessary actions for that in time which would help us saving the animals from getting poached and also resolve human-animal conflict by keeping animals away from farms.
 - **Real Time Weather (ML)** : We are fetching the real time weather of the animal's current location and make predictions about if the habitat is suited for that animal and how long that animal could survive in those climatic habitat.
 - **Real time monitoring** : An application platform to monitor the live locations and dangers associated with the animals and notify authorities to take appropriate plan of action well within time when an animal is spotted in danger.
