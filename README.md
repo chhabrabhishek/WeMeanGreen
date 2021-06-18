@@ -9,6 +9,8 @@ Sustainable future of our ecosystem , preserving wildlife and natural habitats.
 
 ## The Architecture
 
+![image](https://user-images.githubusercontent.com/25299400/122579914-0b0ab680-d073-11eb-9f71-9fa5adcd23ed.png)
+
 1. Smart Collar Device collects animal's real time voice , current GPS location and weather data and send them to Python Server hosted on IBM Cloud.
 2. The data will be processed using AI/ML models and returned back to Python Server.
 3. The processed data will be sent to Kafka Producer hosted on IBM cloud Foundry.
@@ -47,7 +49,9 @@ There isn't any system available which would give us the real time data about th
 
 Following is our project roadmap, which depicts the current prototype listing of our system, and defines the future scope. 
 
-## Getting Started with the Code
+![image](https://user-images.githubusercontent.com/25299400/122579972-19f16900-d073-11eb-9c27-74db226d9f0c.png)
+
+## Github Code Repositories
 
 Following are the instructions to run our project on the local machine for development and testing purposes, in a sequential manner.
 
@@ -55,7 +59,16 @@ Following are the instructions to run our project on the local machine for devel
 - [Collar Kafka](https://github.com/chhabrabhishek/collar_kafka)
 - [Collar Monitor](https://github.com/chhabrabhishek/collar_monitor)
 
-##Built With
+## Local Application Setup
+
+1. Clone the [Smart Collar](https://github.com/chhabrabhishek/Collar) application, and follow the READ ME file to setup the application locally.
+    - Or you can get the direct [APK setup](https://github.com/chhabrabhishek/Collar/blob/master/app-debug.apk) file, which you can install on your android phone and simulate the smart collar application.
+2. Clone the [Collar Kafka](https://github.com/chhabrabhishek/collar_kafka) application, and follow the READ ME file to setup the kafka producers and consumers locally.
+3. Clone the [Collar Monitor](https://github.com/chhabrabhishek/collar_monitor) application, and follow the READ ME file to setup the monitor application locally.
+
+**Note** - All these steps must be done in a sequential manner to setup the code perfectly.
+
+## Built With
 
 - [Open Weather Map APIs](https://openweathermap.org/api)
 - [Angular](https://angular.io/)
